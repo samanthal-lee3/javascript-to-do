@@ -26,11 +26,12 @@
           task.title +
           '</label></div></li>';
           htmlString += liElement;
-        });
+      });
       var ulTodos = $('.todo-list');
       ulTodos.html(htmlString);
 
       $('.toggle').change(function (e) {
+          console.log(e);
           var itemId = $(e.target).data("id");
           console.log(itemId);
 
