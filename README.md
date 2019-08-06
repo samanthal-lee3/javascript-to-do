@@ -1,24 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To-List Application: This application allows users to create a list of tasks and toggle between complete and incomplete status using dynamic JavaScript.
+
+Open this app using Heroku: 
+https://javascript-to-do-samantha-lee.herokuapp.com/
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.6.3
 
-* System dependencies
+* Built using: Ruby on Rails, JavaScript, HTML5, CSS
 
-* Configuration
+* Database creation: postgresql
 
-* Database creation
+* Database initialization: July 2019 
 
-* Database initialization
+* Built with http://todomvc.com/
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
