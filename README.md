@@ -13,7 +13,7 @@ https://javascript-to-do-samantha-lee.herokuapp.com/
 Views:
 
 <div align="center">
-    <img src="/app/assets/images/homepage.jpg" width="400px"></img>
+    <img src="/app/assets/images/homepage.jpg?raw=true" width="400px"></img>
 </div>
 
 
