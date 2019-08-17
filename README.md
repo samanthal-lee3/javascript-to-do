@@ -12,9 +12,7 @@ https://javascript-to-do-samantha-lee.herokuapp.com/
 
 Views:
 
-<div align="center">
-    <img src="/app/assets/images/homepage.jpg?raw=true" width="400px"></img>
-</div>
+![Application Homepage View](https://user-images.githubusercontent.com/49353329/63212381-a591bb80-c0d1-11e9-8455-789bb7c1b1c6.JPG)
 
 
 
