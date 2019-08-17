@@ -12,7 +12,7 @@ https://javascript-to-do-samantha-lee.herokuapp.com/
 
 Views:
 
-![Landing page application view](C:\Users\Samantha\Desktop\coding-environment\src\todo\app\assets\images)
+![Landing page application view](/relative/path/to/homepage.png?raw=true "Application Homepage")
 
 
 
