@@ -12,7 +12,9 @@ https://javascript-to-do-samantha-lee.herokuapp.com/
 
 Views:
 
-![Landing page application view](/relative/path/to/homepage.png?raw=true "Application Homepage")
+<div align="center">
+    <img src="/app/assets/images/homepage.png" width="400px"></img>
+</div>
 
 
 
