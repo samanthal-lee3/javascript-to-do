@@ -1,11 +1,22 @@
 # README
 
+Overview:
+
 To-List Application: This application allows users to create a list of tasks and toggle between complete and incomplete status using dynamic JavaScript.
+
+Production:
 
 Open this app using Heroku: 
 https://javascript-to-do-samantha-lee.herokuapp.com/
 
-Things you may want to cover:
+
+Views:
+
+![Landing page application view](C:\Users\Samantha\Desktop\coding-environment\src\todo\app\assets\images)
+
+
+
+Application Details:
 
 * Ruby version 2.6.3
 
